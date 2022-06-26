@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    font-size:12px;
+}
+/* 有自己样式，不继承父元素样式 */
+li{
+    list-style-type:none;
+}
+a{
+    color:#b0b0b0;
+    text-decoration: none;
+}
